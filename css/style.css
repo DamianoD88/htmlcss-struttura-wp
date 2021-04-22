@@ -4,8 +4,7 @@
     box-sizing: none;
 }
 
-header{
+header, footer{
     height: 300px;
-    width: 500px;
     background-color: #e579e6;
 }
