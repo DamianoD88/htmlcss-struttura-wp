@@ -4,8 +4,13 @@
     box-sizing: border-box;
 }
 
+body{
+    margin: auto;
+    width: 75%;
+}
 
 header{
+    margin-top: 30px;
     height: 100px;
     background-color: #e579e6;
 }
@@ -30,7 +35,7 @@ header{
 }
 
 aside{
-    height: 500px;
+    height: 800px;
     width: 20%;
     background-color: #abcfe7;
     border-bottom: 30px solid #0086fe;
@@ -38,7 +43,7 @@ aside{
 }
 
 div.float-left{
-    height: 500px;
+    height: 800px;
     width: 60%;
     background-color: #abcfe7;
     border: 30px solid #0086fe;
